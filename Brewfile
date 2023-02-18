@@ -14,7 +14,7 @@ cask "google-chrome"
 cask "google-japanese-ime"
 cask "firefox"
 cask "scroll-reverser"
-cask "shiftit"
+cask "rectangle"
 cask "homebrew/cask-drivers/logi-options-plus"
 cask "sourcetree"
 mas "Slack", id: 803453959
